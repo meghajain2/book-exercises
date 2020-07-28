@@ -9,4 +9,3 @@ There are also other ways of using **cd**
 - **cd ..** -> this goes up a folder
 - **cd ~** -> this goes back to the home directory
 - **cd desktop/u\ of\ wa/info\ 201/** -> this is an absolute path
- 
