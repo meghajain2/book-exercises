@@ -5,4 +5,6 @@ In your `README.md` document, put your favorite quote in a block quote, and prov
 
 Note that you can preview this Markdown in Atom to make sure it works correctly.
 
-I will be typing in _this_ README.md file!
+# My Quote!
+
+> [no matter how hard you work, someone else is working harder](https://pixelsquote.net/hard-work-quotes/)
