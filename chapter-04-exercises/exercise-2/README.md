@@ -1,11 +1,7 @@
-# Change directory: cd
+# Exercise 2
 
-> EX: cd "u of wa"
+Using the text-edit of your choice (e.g., Atom), create a new file called ```README.md```. Alternatively, you may clone this repository and edit this file.
 
-- This will change directories from the desktop down to the "u of wa folder". You will be able to access everything in that folder now.
+In your ```README.md``` document, make a three column table of the current courses you are taking, with separate columns for course number (in **bold**), course title (in _italics_), and instructor name.
 
-There are also other ways of using **cd**
-- **cd** -> this goes down a folder
-- **cd ..** -> this goes up a folder
-- **cd ~** -> this goes back to the home directory
-- **cd desktop/u\ of\ wa/info\ 201/** -> this is an absolute path
+Note that you can preview this Markdown in Atom to make sure it works correctly.
